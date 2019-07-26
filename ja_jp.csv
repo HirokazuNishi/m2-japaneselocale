@@ -57,9 +57,9 @@ Message,メッセージ
 "%1 = %2","%1 = %2"
 "%1 An empty value is allowed as well.","%1 空の値も使うことが出来ます。"
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 ""%2""属性に基づくカート価格ルールは無効化されました。"
-"%1 Item","%1 注文"
+"%1 Item","%1 アイテム"
 "%1 Item(s)","%1 アイテム"
-"%1 Items","%1 注文"
+"%1 Items","%1 アイテム"
 "%1 RMA (s) have been closed.","%1 RMA 閉じられました"
 "%1 RMA(s) cannot be closed","%1 RMA　閉じることができません"
 "%1 Review(s)","%1 レビュー"
@@ -3544,8 +3544,8 @@ Method,メソッド
 "Minification is not applied in developer mode.",縮小は開発モードでは適用されません。
 "Minify CSS Files",CSSファイルを圧縮する
 "Minify Html",Htmlを圧縮
-"Minify JavaScript Files","JavaScriptファイルを圧縮する
-CSS Settings"""
+"Minify JavaScript Files","JavaScriptファイルを圧縮する"
+"CSS Settings","CSS設定"
 "Minimal Query Length",最少クエリ文字数
 "Minimal value",最小値
 Minimum,最小
@@ -3570,7 +3570,7 @@ Minute,分
 "Minute of the Hour",時間の分
 "Miscellaneous Feeds",利用可能なフィード
 "Miscellaneous HTML","色々な HTML"
-"Missed if Not Run Within",失敗しているか、処理中です。
+"Missed if Not Run Within",遅延とみなす時間
 "Missing search engine parameter.",検索エンジンパラメータがありません。
 Mixed,混じった
 "Mobile Payment (made via a mobile phone)","携帯支払 (携帯からの支払)"
@@ -5432,8 +5432,8 @@ Save,保存
 "Save history file content ""%1""","履歴ファイルの内容を保存する ""%1"""
 "Save in New Attribute Set",新しい属性セットに保存
 "Save in address book",アドレス帳に保存
-Schedule,スケジュール
-"Schedule Ahead for",事前作成するスケジュール
+Schedule,スケジュール事前作成するスケジュール
+"Schedule Ahead for",スケジュールを事前作成する期間
 "Schedule Design Update",デザインアップデートスケジュール
 "Schedule Id",スケジュールID
 "Schedule New Update",新しいアップデートを予定する
@@ -6809,7 +6809,7 @@ Transactions,トランザクション
 "Transfer Shipping Options",トランスファー配送オプション
 "Translate Inline",インライン翻訳
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",翻訳データやブロックやその他のキャッシュはインライン翻訳を使用する際には無効にしておいたほうが便利です。
-"Translation Strategy",翻訳ストラテジ
+"Translation Strategy",翻訳方法
 "Translation files",翻訳ファイル
 Translations,翻訳
 "Treat Balance as Store Credit",残高を店舗クレジットとして扱う
@@ -11798,4 +11798,16 @@ title2,タイトル2
 Columns,列
 "Minimum of different classes of characters in password is 3. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","パスワードには最低でも 3種類の文字を含めてください。文字の種類は次のとおりです: 大文字,小文字, 数字, 記号"
 "Are you sure you wan\'t to delete a %1 record?","%1 を削除しても良いですか?"
-
+"Select billing address","ご購入者住所を選択"
+"Search for city, state, street or zip","郵便番号、都道府県、市区町村で検索できます"
+"Billing Address with ID: %s doesn't exist","ID: %s のご購入者住所は存在していません"
+"Select shipping address","お届先住所を選択"
+"Shipping Address with ID: %s doesn't exist","ID: %s のお届け先住所は存在していません"
+"My billing and shipping address are the same","購入者住所と届け先住所は同じです"
+"Billing Address","ご購入者住所"
+"Save Address","保存"
+Cancel,キャンセル
+"No address selected","住所が未選択です"
+"Enable Address Search","住所検索を有効にする"
+"Number of Customer Addresses Limit","検索対象にする顧客住所件数"
+"Move JS code to the bottom of the page","JavaScriptコードをページ下部に移動する"
