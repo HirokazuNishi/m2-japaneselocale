@@ -8710,7 +8710,7 @@ Main,メイン
 "The shipping information was unable to be saved. Verify the input data and try again.",配送情報を保存できませんでした。入力データを確認して再度お試し下さい。
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.",配送方法は空のカートに設定できません。商品をカートに追加し、再度お試し下さい。
 "Print receipt",レシートを印刷
-"View and Edit Cart","View and Edit Cart"
+"View and Edit Cart","カートを表示する"
 Field,フィールド
 "is required.",は必須です。
 Example:,正しい郵便番号の例:
