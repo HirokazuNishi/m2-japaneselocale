@@ -1777,7 +1777,7 @@ Default,標準
 "Default Billing Address",標準ご連絡先住所
 "Default Config",標準の設定
 "Default Content",標準コンテンツ
-"Default Cookie Settings",ディフォルトのCookie設定
+"Default Cookie Settings",デフォルトのCookie設定
 "Default Country",標準の国
 "Default Customer Group from System Configuration",システム設定の標準顧客グループ
 "Default Display Currency",標準表示通貨
@@ -1812,8 +1812,8 @@ Default,標準
 "Default Status",標準ステータス
 "Default Store",標準の店舗
 "Default Store View",標準のストアビュー
-"Default Tax Class for Customer",ディフォルトの顧客のための税クラス
-"Default Tax Class for Product",ディフォルトの商品のための税クラス
+"Default Tax Class for Customer",デフォルトの顧客のための税クラス
+"Default Tax Class for Product",デフォルトの商品のための税クラス
 "Default Tax Destination Calculation",標準税計算対象地域
 "Default Template",標準テンプレート
 "Default Theme",既定のテーマ
@@ -1828,7 +1828,7 @@ Default,標準
 "Default Welcome Email Without Password",デフォルトのパスワード無しようこそEメール
 "Default display currency ""%1"" is not available in allowed currencies.","デフォルト表示通貨 ""%1"" 許可された通貨内で有効ではありません。"
 "Default from System Configuration",システム設定からの標準
-"Default label",ディフォルトラベル
+"Default label",デフォルトラベル
 "Default scope",標準のスコープ
 "Default store is inactive",デフォルトストアは無効です
 "Default welcome msg!",標準のウェルカムメッセージ!
@@ -5204,7 +5204,7 @@ Reset,リセット
 "Reset Password",パスワード再発行
 "Reset Password Template",リセットパスワードテンプレート
 "Reset a Password",パスワードリセット
-"Reset to Default",ディフォルトにリセット
+"Reset to Default",デフォルトにリセット
 "Reset your %store_name password","%store_name passwordパスワードをリセットする"
 Residential,宅配
 "Residential Delivery",宅配
@@ -5949,7 +5949,7 @@ Small,スモール
 "Sorry, the default display currency you selected is not available in allowed currencies.",申し訳ありません、許可された貨幣の中で選択されたデフォルト表示通貨は存在しません。
 "Sorry, there was an error getting requested content. Please contact the store owner.",申し訳ございません。コンテンツのダウンロード中にエラーが発生しました。担当者にお問い合わせください。
 "Sorry, we haven't installed the base currency you selected.",申し訳ありません、あなたが選択したベース通貨はインストールされておりません。
-"Sorry, we haven't installed the default display currency you selected.",申し訳ありません、あなたが選択したディフォルト表示通貨はインストールされておりません。
+"Sorry, we haven't installed the default display currency you selected.",申し訳ありません、あなたが選択したデフォルト表示通貨はインストールされておりません。
 "Sorry, we're unable to complete this request.",申し訳ありません、このリクエストを完了できませんでした。
 Sort,ソート
 "Sort By",並び順
@@ -9272,7 +9272,7 @@ Syslog,Syslog
 "The attribute can't be deleted.",この属性は削除できません。
 "The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.","ID ""%1"" の属性が見つかりません。属性を確認して再度お試し下さい。"
 "The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","エラーのため属性セットを保存できませんでした。 情報を確認して、再度お試し下さい。 エラーが解決しない場合は、後でもう一度お試しください。"
-"The default attribute set can't be deleted.",ディフォルト属性セットは削除できません。
+"The default attribute set can't be deleted.",デフォルト属性セットは削除できません。
 "The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","エラーのため属性セットを削除できませんでした。 エラーが解決しない場合は、後でもう一度お試しください。"
 "This parameter is unknown. Verify and try again.",パラメータが不明です。確認して再度お試し下さい。
 "The default decimal value is invalid. Verify the value and try again.",標準値が無効です。値を確認して再度お試し下さい。
@@ -10250,7 +10250,7 @@ Swatches,スワッチ
 "Default Meta Keywords",初期メタキーワード
 "Logo Attribute Width",ロゴ属性の幅
 "Logo Attribute Height",ロゴ属性の高さ
-"Reset To Defaults",ディフォルトにリセット
+"Reset To Defaults",デフォルトにリセット
 "TinyMCE 3 (deprecated)","TinyMCE 3（推奨しない）"
 "Error while translating phrase ""%s"" in file %s.","""%s"" の %s における翻訳中にエラーが発生しました。"
 "Error while generating js translation dictionary: ""%s""","Js 翻訳辞書の生成中のエラー: ""%s"""
