@@ -11812,3 +11812,5 @@ Cancel,キャンセル
 "Enable Address Search","住所検索を有効にする"
 "Number of Customer Addresses Limit","検索対象にする顧客住所件数"
 "Move JS code to the bottom of the page","JavaScriptコードをページ下部に移動する"
+"Enter your destination to get a shipping estimate.","配送料金計算をするにはお届け先を入力してください。"
+"Change Address","住所を変更"
