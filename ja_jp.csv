@@ -68,25 +68,25 @@ Message,メッセージ
 "%1 [%2]","%1 [%2]"
 "%1 and above","%1 と以上"
 "%1 and greater","%1 とそれ以上"
-"%1 cache type(s) disabled.","%1 cacheタイプが無効"
-"%1 cache type(s) enabled.","%1 cacheタイプが有効"
-"%1 cache type(s) refreshed.","%1 cacheタイプが更新"
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 クラスは \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface　を実装していません"
-"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 クラスは、\Magento\Payment\Model\MethodInterface を実用していません"
+"%1 cache type(s) disabled.","%1 件のキャッシュが無効になりました。"
+"%1 cache type(s) enabled.","%1 件のキャッシュが有効になりました。"
+"%1 cache type(s) refreshed.","%1 件のキャッシュが更新されました。"
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 クラスは \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface を実装していません"
+"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 クラスは、\Magento\Payment\Model\MethodInterface を実装していません"
 "%1 coupon(s) have been generated.","%1 クーポンが作成されました"
 "%1 does not contain field '%2'",%1はフィールド'%2'を含みません
 "%1 does not contain field 'file'",%1はフィールド'file'を含みません
-"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 は \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface　拡張できません"
-"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 は \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice　を拡張できません。"
-"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 は \Magento\Checkout\CustomerData\ItemInterface を拡張しません。"
-"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 は \Magento\Customer\CustomerData\SectionSourceInterface　を展開しません。"
-"%1 doesn't extend \Magento\Framework\Filter\Template","%1 は \Magento\Framework\Filter\Template　を拡張できません。"
-"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 は \Magento\Catalog\Model\Layer\Filter\AbstractFilter　拡張しません"
-"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 は \Magento\Catalog\Model\Product\Option\Type\DefaultType　を拡張しません。"
-"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 は \Magento\Catalog\Model\Product\Type\AbstractType　を拡張できません。"
-"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 は \Magento\Catalog\Model\Product\Type\Price　を拡張できません。"
-"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 は \Magento\Framework\Model\AbstractModel　拡張しません"
-"%1 doesn't implement SortInterface","%1 は SortInterface　を実装していません"
+"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 は \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface 継承していません。"
+"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 は \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice継承していません。"
+"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 は \Magento\Checkout\CustomerData\ItemInterface 継承していません。"
+"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 は \Magento\Customer\CustomerData\SectionSourceInterface 継承していません。"
+"%1 doesn't extend \Magento\Framework\Filter\Template","%1 は \Magento\Framework\Filter\Template 継承していません。"
+"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 は \Magento\Catalog\Model\Layer\Filter\AbstractFilter 継承していません。"
+"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 は \Magento\Catalog\Model\Product\Option\Type\DefaultType 継承していません。"
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 は \Magento\Catalog\Model\Product\Type\AbstractType 継承していません。"
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 は \Magento\Catalog\Model\Product\Type\Price 継承していません。"
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 は \Magento\Framework\Model\AbstractModel 継承していません。"
+"%1 doesn't implement SortInterface","%1 は SortInterface を実装していません"
 "%1 email(s) were sent.","%1 件のメールを送信しました"
 "%1 for ""%2""","""%2""のための%1"
 "%1 for ""%2"".","""%2"" のための %1"
@@ -1566,7 +1566,7 @@ Credit,クレジット
 "Credit memo for your %store_name order",%store_nameオーダーのクレジットメモ
 "Credit memo has not been canceled.",クレジットメモはキャンセルされていません。
 "Critical System Messages",クリティカルなシステムメッセージ
-Cron,クロン
+Cron,Cron
 "Cron (Scheduled Tasks)",Cron（スケジュールされたタスク）
 "Cron Expression",Cron式
 "Cron Schedules List",Cronスケジュール一覧
@@ -2166,7 +2166,7 @@ Email,Eメール
 "Email Sent from Gift Card Account Management",ギフトカードアカウント管理から送信されたメール
 "Email Template",メールテンプレート
 "Email Templates",メールテンプレート
-"Email Text Length Limit",Wメールのテキストの長さの最大数
+"Email Text Length Limit",メールのテキストの長さの最大数
 "Email Verification",電子メールの確認
 "Email address",Eメールアドレス
 "Email address impact. The customer uses a free email provider, or the email address is risky",電子メールアドレスの影響。顧客が無料の電子メールプロバイダを使用している、または電子メールアドレスが危険です。
@@ -2245,7 +2245,7 @@ Enable,有効
 "Enable Search Suggestions",おすすめ検索を有効にする
 "Enable Single-Store Mode",シングルストアモード有効
 "Enable Store Credit Functionality",ストアクレジット機能を有効にする
-"Enable Submission to Robots.txt",Robots.txtへの提出を可能にする
+"Enable Submission to Robots.txt",Robots.txtにサイトマップ情報を出力する
 "Enable Terms and Conditions",契約条件を有効にする
 "Enable WYSIWYG Editor",WYSIWYGエディタを有効にする
 "Enable this Solution",このソリューションを有効にする
@@ -3533,9 +3533,9 @@ Merchandise,物品
 "Message length must not exceed %1 symbols","メッセージの長さは %1 文字以上でなければなりません。"
 Message:,メッセージ:
 "Messages Inbox",受信箱
-"Meta Description",メタ概要
-"Meta Keywords",メタキーワード
-"Meta Title",メタタイトル
+"Meta Description","Meta Description"
+"Meta Keywords","Meta Keywords"
+"Meta Title","Meta Title"
 "Meter Number",メートル番号
 Method,メソッド
 "Method ""%1"" is not defined in ""%2""","%1 メソッドは %2 で定義されていません。"
@@ -3550,7 +3550,7 @@ Method,メソッド
 "Minimal value",最小値
 Minimum,最小
 "Minimum Advertised Price",希望小売価格
-"Minimum Amount",最小個数
+"Minimum Amount",最低金額
 "Minimum Balance in order to redeem: %1.","交換するための最低残高: %1."
 "Minimum Order Amount",最小注文金額
 "Minimum Order Total",注文合計最小値
@@ -3564,7 +3564,7 @@ Minimum,最小
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","パスワードには最低でも %1種類の文字を含めてください。文字の種類は次のとおりです: 小文字, 大文字, 数字, 記号"
 "Minimum order amount is %1","最低注文額は %1"
 "Minimum: %1","最小: %1"
-Mins,Mins
+Mins,分
 Minute,分
 "Minute Intervals",分間隔
 "Minute of the Hour",時間の分
@@ -4675,7 +4675,7 @@ Position,位置
 Pounds,ポンド
 "Preapproved Payment (BillUser API, either sent or received","事前承認された支払 (BillUser API, 送ったか受け取りのどちらか"
 "Preapproved Payment ID",事前承認払いID
-"Prefix Dropdown Options",称号の候補
+"Prefix Dropdown Options",敬称の候補
 "Pregenerated product images files",事前に準備された商品画像ファイル
 "Preparing system report data: Detected Single Row Mode but data may be incomplete.",システムレポートデータの準備：検出された単一行モードですが、データが不完全である可能性があります。
 "Preprocessed view files and static files",処理済みビューファイルと静的ファイル
@@ -5459,7 +5459,7 @@ Search,検索
 "Search Engine",検索エンジン
 "Search Engine Optimisation",検索エンジンの最適化
 "Search Engine Optimization",検索エンジン最適化
-"Search Engine Submission Settings",検索エンジン提出設定
+"Search Engine Submission Settings",検索エンジンクロール設定
 "Search Index",検索インデックス
 "Search Information",検索情報
 "Search Options",検索オプション
@@ -5541,6 +5541,7 @@ Select,選択
 "Select day of the month.",月の日を選択してください。
 "Select from existing customer addresses:",登録済の顧客と住所から選択:
 "Select from the following attribute values for this product. Each unique combination of values creates a unique product SKU.","この商品の以下の属性値から選択してください。 独自の値の組み合わせにより、一意の商品SKUが作成されます。"
+"Select from Gallery","ギャラリーから選択"
 "Select options for all attributes or remove unused attributes.",全ての属性のオプションを選択するか使われてない属性を削除してください。
 "Select products you want to buy",購入する商品を選択してください
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","もし %1 %2を超えるようであれば、注文を分けることによってこれを選択することで注文を分けることによってDHLは送料を調整します"
@@ -5566,7 +5567,7 @@ Send,送信
 "Send Email Confirmation",Eメール確認を送る
 "Send Email Notification From the Following Store View",以下のストアビューからメール通知を送信
 "Send Email from the Following Store View",以下のストアビューからメールを送信
-"Send Emails To",Emailを次のアドレスに送信
+"Send Emails To",メール送信先
 "Send Failed Email Copy Method",失敗メールの複製送信方法
 "Send Failed Email Copy To",失敗メールの複製送信先
 "Send From",送信元
@@ -5766,7 +5767,7 @@ Show,表示
 "Show Notice if JavaScript is Disabled",JavaScriptが無効の場合に警告を表示する。
 "Show Notice if Local Storage is Disabled",ローカルストレージが無効の場合に警告を表示する。
 "Show Packages",梱包を表示
-"Show Prefix",称号を表示
+"Show Prefix",敬称を表示
 "Show Region",都道府県を表示
 "Show Related Products",関連商品を表示
 "Show Report",レポート表示
@@ -5775,7 +5776,7 @@ Show,表示
 "Show Results Count for Each Suggestion",各おすすめごとに結果数を表示する
 "Show Reviews",レビューを表示
 "Show Store Credit History to Customers",顧客のストアクレジット履歴を表示する
-"Show Suffix",敬称を表示
+"Show Suffix",称号を表示
 "Show Tax/VAT Number",税/VAT番号を表示
 "Show Toolbar",ツールバーを表示
 "Show Upsell Products",アップセル商品を表示
@@ -6139,7 +6140,7 @@ Success,成功
 Successful,成功
 "Successful Messages Lifetime",成功したメッセージの存続期間
 "Successful! Test again?","成功しました！ もう一度テストしますか？"
-"Suffix Dropdown Options",サフィックスドロップダウンオプション
+"Suffix Dropdown Options",称号の候補
 "Suggested Term",推奨期間
 "Suggested Terms",提案された語句
 Summary,サマリ
@@ -6471,7 +6472,7 @@ Text,テキスト
 "The store credit payment has been removed from shopping cart.",ストアクレジットをカートから削除しました。
 "The store does not exist",店舗がありません。
 "The storefront label is not defined.",ストアフロントラベルが未定義です
-"The suffix that goes after name (Jr., Sr., etc.)","名前に続くサフィックスが必要 (Jr., Sr., など)"
+"The suffix that goes after name (Jr., Sr., etc.)","名前に続く称号が必要です (Jr., Sr., など)"
 "The synonym group has been deleted.",同義語グループが削除されました。
 "The system report has been deleted.",システムレポートが削除されました。
 "The system report has been generated.",システムレポートが生成されました。
@@ -6482,7 +6483,7 @@ Text,テキスト
 "The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","入力した用語 (%1) は、既存の同義語グループ %2 に属します。 ""既存の同義語をマージする"" チェックボックスを選択すると、用語をマージできます。"
 "The text of the link to the My Account &gt; Order by SKU page",マイアカウントへのリンクのテキスト&gt;SKUページの順
 "The timeout limit for response from synchronize process was reached.",同期プロセスのレスポンスのタイムアウト限界に達しました
-"The title that goes before name (Mr., Mrs., etc.)","名前の前につけるタイトル (Mr., Mrs., など)"
+"The title that goes before name (Mr., Mrs., etc.)","名前の前につける敬称 (Mr., Mrs., など)"
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","トータルモデルは \Magento\Sales\Model\Order\Total\AbstractTotal から展開すべきです"
 "The transaction ""%1"" (%2) is already closed.","トランザクション ""%1"" (%2) はすでのクローズしています"
 "The transaction ""%1"" cannot be captured yet.","トランザクション ""%1"" はまだキャプチャーできません"
@@ -6983,6 +6984,7 @@ Updated,更新
 Updated:,アップデート日:
 "Updating classType is not allowed.",クラスタイプのアップデートは許可されていません
 "Upgrade Insecure Requests",安全でないリクエストをアップグレードする
+Upload,アップロード
 "Upload CSS File",CSSファイルをアップロード
 "Upload File",ファイルをアップロード
 "Upload Files",ファイルアップロード
@@ -8372,6 +8374,7 @@ javascript:history.back(),javascript:history.back()
 "Parameter Value",パラメータの値
 "Add Block Class Type to Hints",ヒントにブロックのクラスタイプを追加
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">警告!</strong> ストアコードをURLに使用している際は、外部サービスからのストアコードが付加されない形でのアクセスの場合に正しい動作をしない可能性があります。 (例 PayPal など。)"
+"<strong class=""colorRed"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong class=""colorRed"">警告!</strong> ストアコードをURLに使用している際は、外部サービスからのストアコードが付加されない形でのアクセスの場合に正しい動作をしない可能性があります。 (例 PayPal など。)"
 "If no value is specified, the system default is used. The system default may be modified by third-party extensions.",値を指定しない場合は、システムのデフォルト値を使用します。システムのデフォルト値は、外部の拡張機能によって修正されるかもしれません。
 "Dynamic Blocks",動的ブロック
 "Add Dynamic Block",動的ブロックを追加
@@ -8756,11 +8759,11 @@ State/Province:,都道府県:
 "Phone Number:",電話番号:
 "Job Title:",職名:
 "Email Address:",メールアドレス:
-Prefix:,接頭辞:
+Prefix:,敬称:
 "First Name:",名:
 "Middle Name/Initial:",ミドルネーム/イニシャル:
 "Last Name:",姓:
-Suffix:,サフィックス:
+Suffix:,称号:
 Gender:,性別:
 Duplicated,複製
 "Company Structure",社内体制
@@ -9006,7 +9009,7 @@ Proceed,続行
 "Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.",この会社をブロックしてもよろしいですか？処理すると、社員は注文を行えなくなります。
 "Reason for Rejection",拒否の理由
 "VAT / TAX ID","VAT / 税ID"
-Prefix,接頭辞
+Prefix,プレフィックス
 "Middle Name/Initial",ミドルネーム/イニシャル
 Suffix,サフィックス
 "Change Customer Group?",顧客グループを変更しますか？
@@ -9202,7 +9205,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Change Email Template",メールテンプレートの変更
 "Change Email and Password Template",メールアドレスとパスワードテンプレートを変更する
 "Valid range: 1-4",使用可能な範囲：1-4
-"Semicolon (;) separated values.<br/>Leave empty for open text field.",セミコロン（;）で区切られた値。<br/>オープンテキストフィールドには空のままにします。
+"Semicolon (;) separated values.<br/>Leave empty for open text field.",セミコロン（;）で区切られた値を入力してください。<br/>自由入力の場合は空のままにします。
 "Show Telephone",テンプレートの表示
 "Show Company",会社の表示
 "Show Fax",Faxの表示
@@ -10247,8 +10250,8 @@ Swatches,スワッチ
 "Default Page Title",デフォルトのページタイトル
 "Page Title Prefix",ページタイトルプレフィックス
 "Page Title Suffix",ページタイトルサフィックス
-"Default Meta Description",標準のメタの説明
-"Default Meta Keywords",初期メタキーワード
+"Default Meta Description","標準のMeta Description"
+"Default Meta Keywords","標準のMeta Keywords"
 "Logo Attribute Width",ロゴ属性の幅
 "Logo Attribute Height",ロゴ属性の高さ
 "Reset To Defaults",デフォルトにリセット
@@ -10733,6 +10736,7 @@ Auto-redirect to Base URL"""
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",許可されるファイルの種類：jpg、jpeg、gif、png。高解像度ディスプレイ用のロゴを最適化するには、通常の3倍の画像をアップロードし、次に下記の幅/高さのフィールドに1xの寸法を指定します。
 "Allowed file types: png"""," gif"
 "Allowed file types: png, gif, jpg, jpeg, svg.","許可されるファイルの種類: png, gif, jpg, jpeg, svg."
+"Allowed file types: JPG, GIF, PNG.","許可されるファイルの種類: JPG, GIF, PNG."
 "An amount of %1 will be captured after being approved at the payment gateway.",決済ゲートウェイにて認証された後に%1の数量がキャプチャーされます
 "An array expected: %1","期待される配列: %1"
 "An attribute code must not be more than %1 characters.",属性コードは%1文字以上ではなりません。
@@ -11779,6 +11783,7 @@ title2,タイトル2
 "Enter https protocol to use Secure URLs on Storefront.",ストアフロントでセキュアURLを使用する
 "Enter https protocol to use Secure URLs in Admin.",管理画面でセキュアURLを使用する
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">注意</strong>: ""No"" にしないでください。セキュリティ性が低下します。"
+"<strong class=""colorRed"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong class=""colorRed"">注意</strong>: ""No"" にしないでください。セキュリティ性が低下します。"
 "Changing can take some time due to processing whole catalog.",変更がすべての商品に適用されるまでしばらく時間がかかります。
 "Account will be unlocked after provided time.",アカウントは指定した時間の経過後にロック解除されます。
 "10 by default. Max - 10000","標準は10です。最大件数は10,000です。"
@@ -11814,3 +11819,194 @@ Cancel,キャンセル
 "Move JS code to the bottom of the page","JavaScriptコードをページ下部に移動する"
 "Enter your destination to get a shipping estimate.","配送料金計算をするにはお届け先を入力してください。"
 "Change Address","住所を変更"
+"${ $.visible } out of ${ $.total } visible","${ $.total } 件中 ${ $.visible } 件を表示中"
+"Maximum 255 chars. Meta Description should optimally be between 150-160 characters","最長255文字までで設定してください。Meta Descriptionは150〜160文字程度が理想です。"
+"Show / Hide Editor","エディタを表示 / 非表示"
+"Delivery Methods","配送方法"
+"In-Store Delivery","店頭引き取り"
+"Search Radius","検索半径"
+"Radius in kilometers for store pick-up search on storefront checkout.","フロントエンドでの購入時に検索範囲の半径に含める距離（km）。"
+"Login was not successful.","ログインに失敗しました"
+"Secret key is not found or was expired.","シークレットキーが見つからないか失効しています。"
+"Login as Customer Log","顧客ログイン代行ログ"
+List,リスト
+ID,ID
+"Customer ID","顧客ID"
+"Customer Email","顧客メールアドレス"
+"Admin ID","管理者ID"
+"Admin Name","管理者名"
+"Logged In","ログイン日時"
+"Login as Customer: Select Store View","顧客ログイン代行: ストアビューを選択"
+"You are about to Login as Customer","顧客としてログインしようとしています"
+"Actions taken while in ""Login as Customer"" will affect actual customer data.","""顧客ログイン代行"" 中に行ったすべての操作は、実際の顧客データに反映されます。"
+"Login as Customer is disabled.","顧客ログイン代行は無効です。"
+"Customer with this ID are no longer exist.","このIDの顧客はもう存在していません。"
+"Please select a Store View to login in.","ログインするストアビューを選択してください"
+"Auto-Detection (default)","自動検出 (デフォルト)"
+"Manual Selection","手動選択"
+"Login as Customer","顧客ログイン代行"
+"Store View","ストアビュー"
+Cancel,キャンセル
+"Login as Customer Settings","顧客ログイン代行設定"
+"Enable Extension","エクステンションを有効化"
+"Store View To Login To","ログインするストアビュー"
+"Use the ""Manual Selection"" option on a multi-website setup that has ""Share Customer Accounts"" enabled globally.
+                            If set to ""Manual Selection"", the ""Login as Customer"" admin can select a store view after logging in.","""顧客アカウントを共有"" がグローバル設定で有効な場合のマルチサイト運用時は、""手動選択"" を使用してください。
+                            ""手動選択"" がセットされている場合, ""顧客ログイン代行"" を行う管理者はログイン後にストアビューを選択できます。"
+"Cannot login to account. No secret key provided.","アカウントにログインできません。シークレットキーがありません。"
+"Customer are no longer exist.","顧客は存在していません。"
+"You are logged in as customer: %1","次の顧客としてログイン中です: %1"
+"You are logged in","ログインしています"
+"Cannot login to account.","アカウントにログインできません。"
+"Close Session","セッションを閉じる"
+Loading...,読込中...
+"You are connected as <strong>%1</strong> on %2","%2 に <strong>%1</strong> として接続しています"
+"You are logged in.","ログインしています。"
+"Disable Page Cache For Admin User","管理者ユーザーにはページキャッシュを無効化する"
+"If set to ""Yes"", page caching is disabled when the Admin user is logged in as a customer.","""Yes"" がセットされている場合、管理者が顧客ログイン代行を使用している間はページキャッシュが無効化されます。"
+"Mini Cart","ミニカート"
+"Display Mini Cart","ミニカートを表示"
+"Number of Items to Display Pager","ページあたりの表示件数"
+"Can not find Pickup Location with code %1 for %2 Sales Channel ""%3"".","%2 販売チャネル ""%3"" の引取先コード ""%1"" が見つかりません。"
+"""%field"" can not be empty for Pickup Location.","""%field"" は引取先で空欄にできません。"
+"The Default Source can not be used for In-Store Pickup Delivery.","デフォルト倉庫は店頭引き取りには使用できません。"
+"Use as Pickup Location","引取場所として利用する"
+"Pickup Location","引取場所"
+"Frontend Name","フロントエンド表示名"
+"Pickup Location Name visible for the customer on checkout.","チェックアウト画面で顧客向けに表示する引取場所名"
+"Frontend Description","フロントエンド詳細"
+Active,アクティブ
+Disabled,無効
+"In-Store Pickup","店頭引き取り"
+"Your order number is: %1.","あなたのご注文番号は: %1 です。"
+"Your order # is: <span>%1</span>.","あなたのご注文番号は: <span>%1</span> です。"
+"We'll email you an order and pick-up confirmation with details.","ご注文内容とお受け取り場所についてのメールをお送りしました。"
+"We'll email you an order confirmation with details and tracking info.","ご注文内容とお届けについてのメールをお送りしました。"
+"Continue Shopping","お買い物を続ける"
+"Email Address","メールアドレス"
+"Forgot Your Password?","パスワードをお忘れですか?"
+"Ship To:","お届け先:"
+edit,編集
+"Shipping Method:","配送方法:"
+"We'll send your order confirmation here.","ご注文内容の確認メールをこのアドレスにお送りします。"
+"Select Store","店舗を選択してください"
+"currentPage value must be greater than 0.","ページ番号は 0 以上の数字でなければなりません。"
+"pageSize value must be greater than 0.","ページあたりの表示件数は 0 以上の数字でなければなりません。"
+"Region or city or postcode must be specified for the filter by distance.","距離による絞り込みのために都道府県または市区町村、郵便番号を指定する必要があります。"
+"currentPage value %1 specified is greater than the %2 page(s) available.","現在のページ番号に指定された値 %1 は利用可能なページ数 %2 よりも大きい値です。"
+"PickupLocation type not defined in schema.","PickupLocation 型がスキーまで定義されていません。"
+"In-Store Pickup is not available with multiple address checkout.","店頭引き取りは複数配送ではご利用いただけません。"
+"Quote does not have Pickup Location assigned.","カート情報には割当済みの引き取り先が設定されていません。"
+"Pickup Location Address does not match Shipping Address for In-Store Pickup Quote.","店頭引き取りの住所がカート情報のお届先住所と一致していません。"
+"""model"" value should be specified","""model"" の値を指定してください"
+"Order notified for pickup at: %1","店頭でのお受け取り準備ができました: %1"
+"The order is not ready for pickup","この注文はまだお受け取りいただけません"
+"Not able to create shipment with 'In Store Pick-Up' delivery method. Order should be notified as 'Ready For Pick-Up' instead.","'店頭引き取り' が配送方法の場合は配送データを作成できません。  '受け取り準備完了' ステータスを代わりにご使用ください。"
+"Your %store_name order is ready for pickup","%store_name でのご注文がご指定の店舗でお受取り頂ける状態になりました"
+"%customer_name,","%customer_name 様、"
+"Your order placed from %store_name is ready for pickup.","%store_name でのご注文がご指定の店舗でお受取り頂ける状態になりました"
+"Your Order <span class=""no-link"">#%increment_id</span> is complete","ご注文番号 <span class=""no-link"">%increment_id</span> のご用意ができました"
+"Please feel free to pickup your order now.","商品をお受取り頂く準備ができました。"
+"Shipping Info","配送情報"
+"Shipping Method","配送方法"
+"Are you sure you want to notify the customer that order is ready for pickup?","顧客に注文の受取準備ができたことを通知してもよろしいですか？"
+"Are you sure you want to notify the customer that order is ready for pickup and create shipment?","顧客に注文の受取準備ができたことを通知し、配送データを作成してもよろしいですか？"
+"Notify Order is Ready for Pickup","受取準備完了として通知する"
+"The customer has been notified and shipment created.","顧客への通知と配送データが作成されました。"
+"This order no longer exists.","この注文は存在していません。"
+"Pickup Location Source","引取場所ソース"
+"Order Ready For Pickup in Store","店頭引き取り準備完了"
+Enabled,有効
+"Order Ready For Pickup Email Sender","注文受取可能メール送信者"
+"Order Ready For Pickup Email Template","注文受取可能メールテンプレート"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","""デフォルト"" が選択された場合は、テーマが用意しているものを使用します。"
+"Order Ready For Pickup Email Template for Guest","ゲスト用注文受取可能メールテンプレート"
+"Send Order Ready For Pickup Email Copy To","注文受取可能メールコピー送信先"
+Comma-separated,カンマ区切り
+"Send Order Ready For Pickup Email Copy Method","注文受取可能メールコピー送信方法"
+"Pickup Location Code","引取ロケーションコード"
+"Notify Orders Are Ready For Pickup","受取準備完了として通知"
+"No Pickup Locations available to satisfy the Rate Request.","お引取りいただける店舗が見つかりません。"
+"Can not resolve Sales Channel for Website with id %1.","ウェブサイトID %1 の販売チャネルを解決できません。"
+"In-Store Delivery","店頭引き取り"
+Enabled,有効
+"Enter the Cookie Lifetime in seconds.","Cookieの有効期限を秒で指定してください。"
+"Enter a valid cookie path. e.g. /","Cookieのパスを指定してください。 例: /"
+"Enter a valid domain name. e.g. ""subdomain.yourdomain.com"", "".yourdomain.com""","正しいドメイン名を指定してください。 例: ""subdomain.yourdomain.com"", "".yourdomain.com"""
+"When Cookie Restriction Mode is enabled, visitors to your store are notified that cookies are required for full-featured operations.","Cookie制限モードが有効になっている場合、サイトへの訪問者にはCookieに対する同意が表示されます。"
+"Enable Reports","レポートを有効にする"
+"If disabled, all report events will be disabled","無効にした場合、レポートイベントは無効になります"
+"Must be in the allowed values list.","使用できる候補の値から指定してください。"
+"Applies to category pages.","カテゴリページに適用されます。"
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown.","""全件"" を ""表示件数"" ドロップダウンのオプションに表示するかを指定します。"
+"Remember Category Pagination","カテゴリのページ番号を保持する"
+"Changing may affect SEO and cache storage consumption.","設定を変更するとSEOやキャッシュストレージの使用量に影響を及ぼします。"
+"Show Swatch Tooltip","スワッチのツールチップを表示する"
+"Display Category Filter","カテゴリフィルターを表示する"
+"This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","この値は検索エンジンの設定と合わせる必要があります。注意：文字数が短い場合、パフォーマンスに悪影響が出ることがあります。"
+"This value must be compatible with the corresponding setting in the configured search engine.","この値は検索エンジンの設定と合わせる必要があります。"
+"Enable EAV Indexer","EAVインデクサーを有効にする"
+"Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","より早いレスポンスを実現するために、結果をキャッシュする上位の検索キーワード数。“0” を指定すると、すべての検索キーワードに対する結果をキャッシュします。"
+"Enable/Disable Product EAV indexer to improve indexation speed. Make sure that indexer is not used by 3rd party extensions.","商品EAVインデクサーを有効/無効にすると、インデックス処理のパフォーマンスが改善します。"
+"If not specified, Default Search Engine will be used.","未指定の場合は、デフォルトの検索エンジンが使用されます。"
+"Minimum Terms to Match","最短マッチ文字数"
+"<a href=""https://docs.magento.com/m2/ce/user_guide/catalog/search-elasticsearch.html"">Learn more</a> about valid syntax.","利用できる設定値については <a href=""https://docs.magento.com/m2/ce/user_guide/catalog/search-elasticsearch.html"">こちら</a>"
+"Generate ""category/product"" URL Rewrites","""category/product"" URL書き換えデータを作成する"
+"<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong class=""colorRed"">警告!</strong> このオプションを有効にすると、 category/product URL書換データを完全に削除します。復元する方法はありません。"
+"Synchronize with Catalog","カタログと同期する"
+"Automatically synchronize inventory data according to the catalog changes.","カタログの変更に連動して在庫データを自動的に同期させます。"
+"Inventory Indexer Settings","在庫インデックス設定"
+"Stock/Source reindex strategy","倉庫/在庫 再インデックス方法"
+"Synchronous","同期"
+"Asynchronous","非同期"
+"An asynchronous queue manager must be configured for async mode.","非同期モードの場合は非同期キュー管理が設定されている必要があります。"
+"Distance Provider for Distance Based SSA","距離基準での配送元倉庫判定用距離情報プロバイダー"
+"Provider","プロバイダー"
+"Offline calculation","オフライン計算"
+"Google Distance Provider","Googleディスタンスプロバイダー"
+"Google API key","Google APIキー"
+"Computation mode","計算モード"
+"Distance","距離"
+"Time to destination","所要時間"
+"Driving","車"
+"Walking","徒歩"
+"Bicycling","自転車"
+"Geocoding API and Distance Matrix API must enabled in your Google API key to support this feature.","ジオコーディングAPIとディスタンスマトリックスAPIがご利用になるGoogle APIキーのアカウントで有効になっている必要があります。"
+"Store Url Options","ストアURLオプション"
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","""友達にメールを送る"" 機能を有効にされる場合は、不正利用を防止するために <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA 機能</a> の有効化を強く推奨します。"
+"2FA","二要素認証"
+"Providers to use","利用するプロバイダー"
+"Google Authenticator","Google認証システム"
+"Two-factor authorization providers for admin users to use during login","二要素認証プロバイダーは管理者がログインする際に使用します"
+"Configuration Email URL for Web API","Web API向けのメール設定URL"
+"This can be used to override the default email configuration link that is sent when using the Magento Web API's to authenticate. Use the placeholder :tfat to indicate where the token should be injected","Magento Web APIの認証時に送信される設定メールに記載するリンクを上書きします。トークンを挿入するべき箇所には、 :tfat をプレースホルダーとして使用してください。"
+"OTP Window","OTP ウインドウ"
+"This determines how long the one-time-passwords are valid for.","ワンタイムパスワードの有効期限を指定します。"
+"Contact Page","連絡先ページ"
+"Example: https://example.com/security-contact.html","例: https://example.com/security-contact.html"
+"Other Information","その他の情報"
+"Encryption","公開鍵ページ"
+"Example: https://example.com/pgp-key.txt","例: https://example.com/pgp-key.txt"
+"Acknowledgements","謝辞ページ"
+"Example: https://example.com/hall-of-fame.html","例: https://example.com/hall-of-fame.html"
+"Preferred-Languages","優先言語"
+"Example: en, es, hi, de, fr","例: ja, en, es, hi, de, fr"
+"Hiring","採用情報ページ"
+"Example: https://example.com/jobs.html","例: https://example.com/jobs.html"
+"Policy","セキュリティポリシー"
+"Signature","署名"
+"Read instructions on how to generate signature","署名の作成方法について"
+"Google reCAPTCHA Admin Panel","管理画面用 Google reCAPTCHA"
+"Google reCAPTCHA Storefront","ストアフロント用 Google reCAPTCHA"
+"Email is required field for Admin order creation","管理画面からの注文作成時にメールアドレスを要求する"
+"If set YES Email field will be required during Admin order creation for new Customer.","Yes を設定した場合、管理画面での新規顧客向けの注文作成にはメールアドレスが必要になります。"
+"Only 'b', 'br', 'em', 'i', 'li', 'ol', 'p', 'strong', 'sub', 'sup', 'ul' tags are allowed","'b', 'br', 'em', 'i', 'li', 'ol', 'p', 'strong', 'sub', 'sup', 'ul' タグのみ使用できます"
+"255 by default. Max - 10000","デフォルトは 255 文字です。 最大値は 10000 文字です。"
+"Allow Zero GrandTotal","合計金額ゼロを許可"
+"Allow Zero GrandTotal for Creditmemo","クレジットメモに合計金額ゼロを許可"
+"Subtotal after discount.","値引き後の小計金額"
+"Include Discount Amount","値引き額を含む"
+"Choosing yes will be used subtotal after discount, otherwise only subtotal will be used.","Yes を設定した場合、値引き後の小計が使用されます。そうでない場合は小計のみが使用されます。"
+"Payment method with vault and instant purchase support should be enabled.","支払方法が vault と 即時購入の両方をサポートしている必要があります。"
+"<strong class=""colorRed"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong class=""colorRed"">警告!</strong> MAPを有効にすると、商品の価格がストアフロントから非表示になります。"
+"If not specified, Default Country from General Config will be used.","指定されない場合、全体設定のデフォルト国を使用します。"
