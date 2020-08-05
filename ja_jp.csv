@@ -361,7 +361,7 @@ Add,追加
 "Add Catalog Event",カタログイベントを追加
 "Add Condition",条件を追加
 "Add Cross-Sell Products",クロスセル商品を追加
-"Add Date",日付追加
+"Add Date",登録日
 "Add Design Change",デザインの変更を追加
 "Add Details",詳細を追加
 "Add Event",イベントを追加
@@ -377,7 +377,7 @@ Add,追加
 "Add Item To Return",返品する商品を追加
 "Add Layout Update",レイアウト更新追加
 "Add Link",リンクを追加
-"Add Locale",ロケール追加
+"Add Locale",登録したストアビュー
 "Add Minimum Qty",最小個数を追加
 "Add New",追加
 "Add New %1","%1 の新規追加"
@@ -1276,6 +1276,7 @@ Clean,クリーン
 "Cleanup Probability",クリーンアップ頻度
 "Cleanup Settings",クリーンアップ設定
 Clear,クリア
+"Clear all",すべてクリア
 "Clear All",すべてクリア
 "Clear Persistence on Sign Out",サインアウト時にカートを消去する
 "Clear Price",クリア価格
@@ -1756,7 +1757,7 @@ Date,日付
 Datetime,日時
 Day,日
 Days,日
-"Days in Wish List",欲しいものリスト内日付
+"Days in Wish List",登録後経過日数
 Debit,デビット
 "Debit Card Cash Back",デビットカードキャッシュバック
 "Debit Card Transaction",デビットカードトランザクション
@@ -3755,7 +3756,7 @@ New,新規
 "New Rule",新しいルール
 "New Scheduled Export",定期エクスポート新規作成
 "New Scheduled Import",定期インポート新規作成
-"New Search",新規検索条件
+"New Search",新規検索キーワード
 "New Segment",新しいセグメント
 "New Set",新しいセット
 "New Set Name",新規セット名
@@ -5730,6 +5731,7 @@ Shipping,配送
 "Shop By",閲覧中
 "Shop now using (150 X 40)","この店で使用可能 (150 X 40)"
 "Shop now using (150 X 60)","この店で使用可能 (150 X 60)"
+"Shopping cart","カート"
 "Shopping Cart",カート
 "Shopping Cart %1 Amount %2 %3:","ショッピングカート %1 量 %2 %3:"
 "Shopping Cart Display Settings",ショッピングカート表示設定
@@ -6415,7 +6417,7 @@ Text,テキスト
 "The order no longer exists.",この注文データは存在しません。
 "The order object is not specified.",注文オブジェクトが指定されていません
 "The order was not on hold.",注文は保留ではありませんでした
-"The order was placed using %1.","注文は"" %1　を使用しておこなわれた"""
+"The order was placed using %1.","注文は %1 で確定されました。"
 "The page has been deleted.",ページを削除しました
 "The parent transaction ID must have a transaction ID.",親トランザクションIDはトランザクションIDを持っていなければなりません
 "The payment currency doesn't match any of the merchant's balances currency.",支払通貨はどのマーチャントの残高の通貨とマッチしません。
@@ -12010,3 +12012,47 @@ Enabled,有効
 "Payment method with vault and instant purchase support should be enabled.","支払方法が vault と 即時購入の両方をサポートしている必要があります。"
 "<strong class=""colorRed"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong class=""colorRed"">警告!</strong> MAPを有効にすると、商品の価格がストアフロントから非表示になります。"
 "If not specified, Default Country from General Config will be used.","指定されない場合、全体設定のデフォルト国を使用します。"
+"Allocated sources","出荷元倉庫"
+"Source Selection","倉庫選択"
+"Proceed to Shipment","配送データ作成に進む"
+"Source Selection Algorithm","倉庫選択アルゴリズム"
+"Select a Source to Ship from","出荷する倉庫を選択"
+"Source","倉庫"
+"Distance Priority","距離を優先"
+"Source Priority","倉庫を優先"
+"Qty to Ship","出荷数量"
+"Available Sources","利用可能倉庫"
+"Qty Available","利用可能数量"
+"Qty To Deduct","減算される数量"
+"Notify Qty","在庫切れ通知数"
+"Unassign","割当解除"
+"Subscribed on Store View","購読するストアビュー"
+Media,メディア
+"Manage Gallery","ギャラリー管理"
+"Sort by","ソート順"
+"Newest first","作成日昇順"
+"Oldest first","作成日降順"
+"Directory: Descending","ディレクトリ: 降順"
+"Directory: Ascending","ディレクトリ: 昇順"
+"Uploaded Date","アップロード日"
+"Name: A to Z","名前: 昇順"
+"Name: Z to A","名前: 降順"
+"Active filters\\:","適用中のフィルタ\\:"
+"Active filters:","適用中のフィルタ:"
+"Directory","ディレクトリ"
+"Modification Date","変更日"
+"License Status","ライセンスステータス"
+"Source","ソース",Magento_MediaGalleryUi
+"Licensed","ライセンス取得済"
+"Unlicensed"."ライセンス未取得"
+"Configuration reset","設定リセット"
+"Reset Providers","リセットするプロバイダー"
+"Reset %1","%1 をリセット"
+"Providers selection","選択されたプロバイダー"
+"Providers defined by admin:","管理者が定義したプロバイダー:"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                     <br>Price is not compatible with <b>\'Filterable (no results)\'</b> option -
+                      it will make no affect on Price filter.","入力形式が Yes/No、ドロップダウン、複数選択の場合に利用できます。
+                      <br>価格は<b>'フィルタ可能(結果なし)'</b>オプションとは互換性がありません。価格フィルタには影響を及ぼしません。"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","入力形式が Yes/No、ドロップダウン、複数選択の場合に利用できます。"
+"Edit Source: %name","倉庫を編集: %name"
