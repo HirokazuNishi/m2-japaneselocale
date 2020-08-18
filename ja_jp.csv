@@ -4125,7 +4125,7 @@ Other,その他
 "Other PayPal Payment Solutions:",その他のPayPal支払いソリューション:
 "Other Payment Methods:",その他の支払い方法:
 "Other Settings",その他の設定
-"Other items in your order",あなたの注文に他のアイテム
+"Other items in your order",その他のご注文いただいた商品
 Others,その他
 "Our hours are <span class=""no-link"">%store_hours</span>.","我々の営業時間は<span class=""no-link"">%store_hours</span>."
 "Out of Stock",在庫切れ
@@ -4356,7 +4356,7 @@ Physical,物理的
 "Place Order Using Billing Agreements",請求契約書を使用した発注
 "Placed from IP",IPアドレス
 "Placed on %created_at",%created_atに配置されました
-"Placed on <span class=""no-link"">%created_at</span>","手配された日は <span class=""no-link"">%created_at</span>"
+"Placed on <span class=""no-link"">%created_at</span>","受付日時 <span class=""no-link"">%created_at</span>"
 "Platinum Partners",プラチナパートナーズ
 "Please Select",選択してください
 "Please Select Container First",まずコンテナを選択してください
@@ -7969,7 +7969,7 @@ Yes/No,Yes/No
 "Your Invoice #%invoice_id for Order #%order_id",注文#%order_idのあなたの請求書#%invoice_id
 "Your Language",あなたの言語
 "Your Language:",あなたの言語:
-"Your Order <span class=""no-link"">#%increment_id</span>","あなたの注文 <span class=""no-link"">#%increment_id</span>"
+"Your Order <span class=""no-link"">#%increment_id</span>","ご注文番号 <span class=""no-link"">%increment_id</span>"
 "Your Packaging",包装
 "Your Password",あなたのパスワード
 "Your Rating",あなたのレーティング
@@ -10778,8 +10778,8 @@ Auto-redirect to Base URL"""
 "Attribute with id ""%1"" does not exist.","id ""%1""の属性は存在しません "
 "AttributeSet with id ""%1"" does not exist.","id ""%1""の属性セットは存在しません"
 "Authentication error occurred.",権限エラーが発生しました。
-"Authorized amount of %1.",許可された量の%1。
-"Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.",許可された量の%1。承認手数料%1が不正であると思われるため、注文は延期されます。
+"Authorized amount of %1.",オーソリ金額は %1 です。
+"Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","オーソリ金額は %1 です。オーソリ金額は %1 が不正であると思われるため、注文は保留されます。"
 "Backend model is not specified for %1",%1にバックエンドモデルが指定されていません
 "Backup ID: ","バックエンド ID: "
 "Backup options",バックアップオプション
