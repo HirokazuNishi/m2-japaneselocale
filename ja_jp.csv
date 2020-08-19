@@ -12056,3 +12056,5 @@ Media,メディア
                       <br>価格は<b>'フィルタ可能(結果なし)'</b>オプションとは互換性がありません。価格フィルタには影響を及ぼしません。"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","入力形式が Yes/No、ドロップダウン、複数選択の場合に利用できます。"
 "Edit Source: %name","倉庫を編集: %name"
+"We could not preselect pickup location based on available information, please select it manually.","最もお近くでお引取りいただける店舗情報を自動選択できませんでした。手動でご指定ください。"
+"Pick in Store","店頭引き取り"
