@@ -2254,6 +2254,8 @@ Enabled,有効
 "Enabled Actions",有効なアクション
 "Enabled Template Path Hints for Admin",管理者ページでテンプレートパスヒントを有効
 "Enabled Template Path Hints for Storefront",ストアフロントでテンプレートパスヒントを有効
+"Enable Template Path Hints for Admin",管理者ページでテンプレートパスヒントを有効
+"Enable Template Path Hints for Storefront",ストアフロントでテンプレートパスヒントを有効
 "Enabled by Default",標準で有効
 "Enabled for Admin",管理者ページで有効にする
 "Enabled for Checkout",有効
@@ -9226,9 +9228,9 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Import failed: %1","インポートに失敗しました: %1"
 "%1 does not implement %2","%1 does not implement %2"
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions."
-"There are no sensitive configurations to fill","There are no sensitive configurations to fill"
+"There are no sensitive configurations to fill","入力が必要な機密情報の設定はありません"
 "The value can't be empty. Enter the value and try again.",値は空にすることはできません。値を入力して再度お試し下さい。
-"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive"
+"A configuration with this path does not exist or is not sensitive","このパスは存在しないか、機密扱いではありません"
 "The mode can't be switched to ""%1"".","モードを ""%1"" に切り替えることはできません。"
 "Wrong logger interface specified.",不正なログインターフェースが指定されました。
 "The hash isn't saved.",ハッシュは保存されません。
@@ -9238,9 +9240,9 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Wrong queue type specified.",不正なキュータイプが指定されました
 "Compilation from source:",ソースからのコンパイル:
 "some message","some message"
-"Client side compilation doesn't work in production mode","Client side compilation doesn't work in production mode"
-"Log to File","Log to File"
-"Not available in production mode.","Not available in production mode."
+"Client side compilation doesn't work in production mode","クライアントサイドコンパイルはプロダクションモードでは動作しません。"
+"Log to File","ファイルに記録する"
+"Not available in production mode.","プロダクションモードでは利用できません。"
 Syslog,Syslog
 "Log to Syslog",Syslogのログ
 "Domestic express 9:00","ドメスティックエコノミー 9:00"
@@ -9248,7 +9250,7 @@ Syslog,Syslog
 "The security validation of the XML document has failed.",XMLドキュメントのセキュリティ検証に失敗しました。
 "The response is in the wrong format",回答のフォーマットが間違っています
 "The country isn't available.",国が有効ではありません。
-"Document is not saved due to error.","Document is not saved due to error."
+"Document is not saved due to error.","ドキュメントはエラーのため保存されませんでした。"
 "Invalid Document \n%1","無効なドキュメント\n%1"
 "The product needs to be the downloadable type. Verify the product and try again.",その商品はダウンロード可能なタイプである必要があります。商品を確認して再度お試し下さい。
 "The link information is invalid. Verify the link and try again.",リンク情報が無効です。リンクを確認して再度お試し下さい。
@@ -12077,3 +12079,12 @@ Media,メディア
 "Send Adminhtml and Frontend as Separate Apps","管理画面とフロントエンドを別アプリケーションとして送信する"
 "In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","追記：メインのアプリケーション (全てのPHP処理を含むほう)に加え, 分離された管理画面とフロントエンドのアプリケーションが作成されます。 New Relicアプリケーション名の設定が必要です。"
 "<strong style=""color:red"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong style=""color:red"">警告!</strong> このオプションを向こうにすると、category/product URL書換データが削除され、もとに戻せなくなります。"
+"<strong class=""colorRed"">Warning!</strong> Enabling this feature is not recommended on production environments because it represents a potential security risk.","<strong class=""colorRed"">警告!</strong> この機能を本番環境で有効にすることはおすすめできません。セキュリティリスクの可能性が高くなります。"
+"Use CSS critical path","CSSクリティカルパスを使用する"
+"<strong class=""colorRed"">Warning!</strong> Be sure that you have critical.css file for your theme. Other CSS files will be loaded asynchronously.","<strong class=""colorRed"">警告!</strong> お使いのテーマにcritical.cssファイルが存在するようにしてください。他のファイルは非同期に読み込まれます。"
+"Caching Settings","キャッシュ設定"
+"Cache User Defined Attributes","ユーザー定義属性をキャッシュする"
+"Modifying this configuration has no effect in production mode.","この設定を変更しても、プロダクションモードには影響しません。"
+"Please put your store into maintenance mode and redeploy static files after changing strategy","変更後はストアをメンテナンスモードに切り替えた上で、静的ファイルをデプロイし直してください"
+"If enabled, can be used by functional tests for extended reporting","有効な場合、拡張レポートがファンクショナルテストに使用されます"
+"Use this key to retrieve collected js errors","JSエラーを収集するためのキーとして使用します"
