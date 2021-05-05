@@ -709,7 +709,7 @@ Answers,回答
 Any,すべて
 "Append Comments",コメントを追加
 "Applicable only if restriction mode is set to ""Private Sales"".","制限モードが""プライベートセールス""に設定されている場合にのみ適用されます。"
-"Applicable only if restriction mode is set to ""Website Closed"". The landing page is rendered as raw HTML.","制限モードが ""ウェブサイト閉鎖""に設定されている場合のみ適用されます。ランディングページは生のHTMLとしてレンダリングされます。"
+"Applicable only if restriction mode is set to ""Website Closed"". The landing page is rendered as raw HTML.","制限モードが ""ウェブサイトクローズド""に設定されている場合のみ適用されます。ランディングページは生のHTMLとしてレンダリングされます。"
 Applied,適用済み
 "Applied Coupon",適用されたクーポン
 "Applied Theme",適用されたテーマ
@@ -809,8 +809,8 @@ Archive,アーカイブ
 "Are you sure you want to void the payment?",決済データを取り消してもかまいませんか？
 "Are you sure?",よろしいですか？
 "Are you sure? This order will be canceled and a new one will be created instead.",本当によろしいですか？この注文はキャンセルされて新しい注文が代わりに作成されます
-"As Low as",同じかそれ以下
-"As low as",同じかそれ以下
+"As Low as",最安価格
+"As low as",最安価格
 "Ask Customer",顧客に相談
 Assign,割り当て
 "Assign Order Status to State",注文ステータスをステートに割り当てる
@@ -1797,7 +1797,7 @@ Default,標準
 "Default Price Navigation Step",標準の価格ナビゲーション区切り
 "Default Price for Printed Card",標準のギフトカードの額面
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.",標準の商品リスト表示順は利用できる候補に存在していません。
-"Default Product Price","Default Product Price"
+"Default Product Price","デフォルトの商品価格"
 "Default Product Sorting",デフォルトの商品分類
 "Default Qty",標準個数
 "Default Quantity",デフォルト数量
@@ -3499,8 +3499,8 @@ Maximum,最大
 "Maximum shipping amount allowed to refund is: %1","返金が許された最大の発送額は: %1"
 "Maximum value",最大値
 "Maximum: %1","最大: %1"
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",空白か{{secure_base_url}か{{unsecure_base_url}}プレイスホルダーで始まっているか
-"May be empty or start with {{unsecure_base_url}} placeholder.",空白か{{unsecure_base_url}}プレイスホルダーで始まっているか
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",空白か{{secure_base_url}か{{unsecure_base_url}}プレースホルダーで始まっているか
+"May be empty or start with {{unsecure_base_url}} placeholder.",空白か{{unsecure_base_url}}プレースホルダーで始まっているか
 "Media (.avi, .flv, .swf)","メディアファイル(.avi, .flv, .swf)"
 "Media Gallery",メディアギャラリー
 "Media Gallery converter should be an instance of EntryConverterInterface.",メディアギャラリーコンバーターはEntryConverterInterfaceのインスタンスでなければなりません。
@@ -5994,7 +5994,7 @@ Specified,特定の
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",マーチャントのPayPalアカウントにて認証オナー期間が何かを指定。PayPalの設定を反映させてなければなりません。
 "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",マーチャントのPayPalアカウントでの注文有効期間がなんであるか指定します。PayPalでの設定と同じでなければなりません。
 "Specify Types",種別を指定
-"Specify URL or {{base_url}} placeholder.","URLか {{base_url}} のプレイスホルダーを指定してください"
+"Specify URL or {{base_url}} placeholder.","URLか {{base_url}} のプレースホルダーを指定してください"
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","URLか {{base_url}}"
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","URLかプレースホルダーで始まるパスを指定して下さい: %1, そして""/""で終了してください。"
 "Specify a fully qualified URL.",完全に用件を満たしたURLを指定してください
@@ -7064,8 +7064,8 @@ Url,Url
 "Use the parent node hierarchy.",親ノード階層を使用します。
 "Use your reward points; %1 are available.","ポイントを使用する; %1 が利用可能です。"
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders",{{name}}と{{description}}を商品名と商品詳細プレースホルダーとして使う
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","{{name}} を商品名として使うあるいは {{sku}}を商品SKUプレースホルダーとして使う"
-"Use {{name}} as Product Name placeholder","{{name}} を商品名プレイスホルダーとして使用する"
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","{{name}} を商品名または {{sku}}を商品番号のプレースホルダーとして使う"
+"Use {{name}} as Product Name placeholder","{{name}} を商品名プレースホルダーとして使用する"
 Used,使用済
 "Used for Sorting in Product Listing",商品リスト表示の並べ替え順で使用する
 "Used in Product Listing",商品リスト表示で使用する
@@ -12058,3 +12058,22 @@ Media,メディア
 "Edit Source: %name","倉庫を編集: %name"
 "We could not preselect pickup location based on available information, please select it manually.","最もお近くでお引取りいただける店舗情報を自動選択できませんでした。手動でご指定ください。"
 "Pick in Store","店頭引き取り"
+"Website Restrictions","アクセス制限"
+"Page -- Full Width","ページ -- フルワイド"
+"Category -- Full Width","カテゴリ -- フルワイド"
+"Product -- Full Width","商品 -- フルワイド"
+"Advanced Content Tools","拡張コンテンツツール"
+"Enable Page Builder","ページビルダーを使用する"
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトやMagentoコンテンツ（商品とカテゴリデータ、CMSコンテンツとブロック）、フォーマット付きテキスト用の拡張ツールを含みます。"
+"Google Maps API Key","Google Maps APIキー"
+"Enter API key to use the Map content type. <a href=""https://developers.google.com/maps/documentation/javascript/get-api-key"" target=""_blank"">Get API Key</a>.","マップコンテンツで使用するAPIキーを入力してください。 <a href=""https://developers.google.com/maps/documentation/javascript/get-api-key"" target=""_blank"">APIキーを入手する</a>。"
+"Test Key","キーをテスト"
+"Google Maps Style","Google Maps スタイル"
+"Paste the Google Maps style JSON code here to change the look and feel of the Map content type. <a href=""https://mapstyle.withgoogle.com/"" target=""_blank"">Create Map Style</a>.","マップコンテンツの見た目を変更する場合は、ここにGoogle Maps スタイルJSONコードを入力してください。 <a href=""https://mapstyle.withgoogle.com/"" target=""_blank"">マップスタイルを作成する</a>。"
+"Default Column Grid Size","デフォルトグリッドカラム数"
+"Grid size determines the default number of columns available.","利用できるグリッドのデフォルトカラム数。"
+"Maximum Column Grid Size","最大グリッドカラム数"
+"Maximum grid size determines the maximum amount of columns available.","利用できるグリッドの最大カラム数。"
+"Send Adminhtml and Frontend as Separate Apps","管理画面とフロントエンドを別アプリケーションとして送信する"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","追記：メインのアプリケーション (全てのPHP処理を含むほう)に加え, 分離された管理画面とフロントエンドのアプリケーションが作成されます。 New Relicアプリケーション名の設定が必要です。"
+"<strong style=""color:red"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong style=""color:red"">警告!</strong> このオプションを向こうにすると、category/product URL書換データが削除され、もとに戻せなくなります。"
