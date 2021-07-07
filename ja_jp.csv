@@ -6353,7 +6353,7 @@ Text,テキスト
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","アップロードされたファイル '%1'は我々のサーバーで許可された %2 メガバイトより大きいです。"
 "The file is empty.",ファイルは空です。
 "The file is valid, but we can't import it for some reason.",ファイルは有効ですが何らかの問題でインポートできません。
-"The file was not uploaded.",ファイルがアップロードされました
+"The file was not uploaded.",このファイルはアップロードされませんでした。
 "The file you uploaded has no extension.",アップロードしたファイルはエクステンションがありません。
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","アップロードしているファイルはサーバーのサイズ制限 %1 キロバイトを超えています。"
 "The filter must be an object. Please set the correct filter.",フィルターはオブジェクトでなければなりません。正しいフィルターをセットしてください。
